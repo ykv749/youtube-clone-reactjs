@@ -3,7 +3,7 @@ import ButtonList from './ButtonList'
 
 const Maincontainer = () => {
     return (
-        <div>
+        <div className='col-span-11'>
             <p>Main Container</p>
             <ButtonList />
         </div>
